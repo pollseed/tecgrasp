@@ -1,4 +1,8 @@
-tecgrasp
-========
+# Summary
 
-technology grasp tool(spring version)
+# Required
+* Java >= 1.6
+* Gradle >= 2.1
+* Spring Boot Stable Ver.
+* eclipse
+ 
