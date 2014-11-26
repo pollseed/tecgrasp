@@ -19,7 +19,7 @@ $ java -jar build\libs\gs-spring-boot-0.1.0.jar
 ## Structure
 
 ### Serverside
-Spring Boot => http://projects.spring.io/spring-boot/
+* Spring Boot => http://projects.spring.io/spring-boot/
 
 ### Frontside
 * Thymeleaf(HTML5 template engine) => http://www.thymeleaf.org/
@@ -29,4 +29,4 @@ Spring Boot => http://projects.spring.io/spring-boot/
 ## Development
 
 ### localServer
-Hot Deploy => https://github.com/spring-projects/spring-loaded
+* TOMCAT(Hot Deploy) => https://github.com/spring-projects/spring-loaded
