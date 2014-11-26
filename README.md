@@ -25,6 +25,11 @@ $ java -jar build\libs\gs-spring-boot-0.1.0.jar
 * Thymeleaf(HTML5 template engine) => http://www.thymeleaf.org/
 * JavaScript+jQuery+Ajax
 * CSS
+ 
+### Middleside
+* TOMCAT 8
+* AWS(tmp)
+* MySQL(tmp) >= 5.6
 
 ## Development
 
